@@ -37,4 +37,4 @@
 # Procedure
 1. Shut off cold water valve
 2. Locate drainage valve at bottom of heater
-3. ! [alt text] (InkedWater-Heater-Drain-Pans_LI.jpg)
+3. ![Water Heater Image] (InkedWater-Heater-Drain-Pans_LI.jpg)
