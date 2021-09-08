@@ -41,4 +41,4 @@
 
 ![Water Heater Image](InkedWater-Heater-Drain-Pans1_LI.jpg)
 
-4.
+3.
