@@ -40,3 +40,5 @@
    - Attach pump and/or hose to drain water from tank
 
 ![Water Heater Image](InkedWater-Heater-Drain-Pans1_LI.jpg)
+
+4.
