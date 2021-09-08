@@ -37,6 +37,6 @@
 # Procedure
 1. Shut off cold water valve
 2. Locate drainage valve at bottom of heater
- - Attach pump and/or hose to drain water from tank
+  - Attach pump and/or hose to drain water from tank
 
 ![Water Heater Image](InkedWater-Heater-Drain-Pans1_LI.jpg)
