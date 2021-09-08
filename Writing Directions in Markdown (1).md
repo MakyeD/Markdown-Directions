@@ -41,8 +41,7 @@
 ![Water Heater Labels](water-heater-shut-down.jpg)\
 1. Shut off cold water valve
 2. Locate drainage valve at bottom of heater
-   - Attach pump and/or hose to drain water from tank\
-![Water Heater Image](InkedWater-Heater-Drain-Pans1_LI.jpg)
+   - Attach pump and/or hose to drain water from tank
 3. Cut hot and cold water pipes on top of heater
 4. Disconnect gas pipe 
 5. Dispose of water heater
