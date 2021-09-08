@@ -43,6 +43,8 @@
    - Attach pump and/or hose to drain water from tank
 ![Water Heater Image](InkedWater-Heater-Drain-Pans1_LI.jpg)
 
+
+
 3. Cut hot and cold water pipes on top of heater
 4. Disconnect gas pipe 
 5. Dispose of water heater
